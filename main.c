@@ -1,4 +1,6 @@
-//Jorge Roberto Sousa dos Santos Filho - Projeto de Introdução à programação
+/* 	IFPE - 2016.2
+	Projeto de Introdução à programação
+	Jorge Roberto Filho */
 
 #include <stdio.h>
 #include <stdlib.h>
